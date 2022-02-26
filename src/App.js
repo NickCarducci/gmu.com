@@ -172,6 +172,17 @@ export default class App extends React.Component {
         <br />
         Go White, investment bank out of welfare and {">"}1/12 hospital fund
         vertical “general revenue “
+        <br />
+        <br />
+        Fix ‘excess’ deaths for population growth, specific age, meaningless
+        significance p{"<"}.05 n=2019-20 humanharvest.info/polio check the
+        parcels! vaults.biz/immi teapharmacy.party/drugs
+        <br />
+        <br />
+        Joan Virden the government{space}
+        <a href="https://gmunit.us">leases back the land to you</a>. Let them
+        take our oil (for dollar royalty), don’t let them rent seek nor take the
+        land. DOUCHE LADY
       </div>
     );
   }
