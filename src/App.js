@@ -206,8 +206,13 @@ export default class App extends React.Component {
         Samples vary greatly - especially when order doesn’t matter
         <br />
         <br />
-        Per diem incarceration bond conflict of interest, ween cops off bonds
-        with{space}
+        you can institutionalize someone you think is a threat, to themselves or
+        others, bail-removal is whistleblowers, withstanding, and appeal fines
+        <br />
+        <br />
+        no evidence that you are going to flee and come back for your trial is a
+        conflict of interest to per diem incarceration bond conflict of
+        interest, ween cops off bonds with{space}
         <a href="https://carducci.us/primary">
           truncated production tax 2025 (nj)
         </a>
@@ -218,8 +223,6 @@ export default class App extends React.Component {
           donee-beneficiary-surrendered-freedom bid by landlord and insurer but
           outright loitering with lender of force-majeure intent conspiracy
         </h1>
-        you can institutionalize someone you think is a threat, to themselves or
-        others, bail-removal is whistleblowers, withstanding, and appeal fines
       </div>
     );
   }
