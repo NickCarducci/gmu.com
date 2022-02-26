@@ -194,6 +194,17 @@ export default class App extends React.Component {
         investments
         <br />
         <br />
+        Need 11/12 industry-variable desist, competition notwithstanding;
+        science is all Public can rent-seek, for no operating costs, like paid
+        writers’ implied liabilities
+        <br />
+        <br />
+        Never the governor, Karl Marx: “Vulgar socialism (and from it in turn a
+        section of the democrats) has taken over distribution as production[,
+        not productive-ward]. After the real relation has long been made clear,
+        why retrogress again?”
+        <br />
+        <h3>The road to serfdom was plagerizm. Vote beard</h3>
         Counterfeit in contract and loitering borrowers is not conservative!
         Surrendered freedom donee beneficiary and force majeure intent, 1y/0x
         useless elasticity too
