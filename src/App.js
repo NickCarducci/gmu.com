@@ -156,6 +156,11 @@ export default class App extends React.Component {
           question="What-is-the-present-GDP"
           username="Nick-Carducci"
         />*/}
+        <br />
+        <br />
+        need to drive the price of oil down, he laughs at us and asks, that is
+        the best you can do? He welcomes this, this is part of his machismo and
+        bravado.
       </div>
     );
   }
