@@ -183,6 +183,27 @@ export default class App extends React.Component {
         <a href="https://gmunit.us">leases back the land to you</a>. Let them
         take our oil (for dollar royalty), don’t let them rent seek nor take the
         land. DOUCHE LADY
+        <br />
+        <br />
+        Warn tort jail no state vig! Known hazard open ingredient list no
+        prescription required for transaction-fee-based security depositary
+        receipt
+        <br />
+        <br />
+        Use industry-vertical-type as “collateral” for max-royalty future
+        investments
+        <br />
+        <br />
+        Counterfeit in contract and loitering borrowers is not conservative!
+        Surrendered freedom donee beneficiary and force majeure intent, 1y/0x
+        useless elasticity too
+        <br />
+        <br />
+        Don’t scapegoat homelessness by landlords, lenders and insurers over CT
+        scans/age, 19%/pop disabled - hypocrisy “trust breakers
+        <br />
+        <br />
+        Samples vary greatly - especially when order doesn’t matter
       </div>
     );
   }
