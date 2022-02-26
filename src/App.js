@@ -163,11 +163,12 @@ export default class App extends React.Component {
         bravado.
         <br />
         <br />
-        1775-1787 American Revolution, petty as all get out (tea sales tax),
-        1814-1870 GDP/p imputed chores, still not productive enough to prove
-        technological advancement (0y/1x efficiency), for not GDP/hour because
-        that is expense/hour, but 1y/0x elasticity is GDP/p, and so efficiency
-        0y/1x for economic welfare on a rice-plane y, is GDP/hour-GDP/p
+        1775-1787 American Revolution, petty as all get out (tea sales tax,
+        successful appeal, livelihood), 1814-1870 GDP/p imputed chores, still
+        not productive enough to prove technological advancement (0y/1x
+        efficiency), for not GDP/hour because that is expense/hour, but 1y/0x
+        elasticity is GDP/p, and so efficiency 0y/1x for economic welfare on a
+        rice-plane y, is GDP/hour-GDP/p
         <br />
         <br />
         Go White, investment bank out of welfare and {">"}1/12 hospital fund
@@ -207,7 +208,10 @@ export default class App extends React.Component {
         <br />
         <br />
         Per diem incarceration bond conflict of interest, ween cops off bonds
-        with truncated production tax 2025 (nj)
+        with{space}
+        <a href="https://carducci.us/primary">
+          truncated production tax 2025 (nj)
+        </a>
       </div>
     );
   }
