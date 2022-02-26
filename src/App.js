@@ -234,6 +234,23 @@ export default class App extends React.Component {
           donee-beneficiary-surrendered-freedom bid by landlord and insurer but
           outright loitering with lender of force-majeure intent conspiracy
         </h1>
+        Diplomacy (bribing war crime) only works when you have the weaponry to
+        back it up The banking systems are especially “receptive,” $170t/$2t
+        donee beneficiary surrendered freedom to bid for retrospective loiter,
+        reverse amortize capital loss deflation (cash/debt)*income every year
+        back for labor-borne-demand and science, efficiency and tech advancement
+        by economical population growth for working age to suppress labor
+        shortage of laborless-demand by financial-userers insurers landlords and
+        lenders false bid pool implausible use and outright loitering - Chris
+        Smith, Foreign Affairs for tsy-sales 2018, 8 years of 400/day to 4/day,
+        what changed?
+        <br />
+        <br />
+        stoping the rent-seeking of science is not kow towing to China.
+        <br />
+        <br />
+        "below market price on the black market, open ingredient lists," Eric
+        Bolling
       </div>
     );
   }
