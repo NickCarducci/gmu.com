@@ -161,6 +161,17 @@ export default class App extends React.Component {
         need to drive the price of oil down, he laughs at us and asks, that is
         the best you can do? He welcomes this, this is part of his machismo and
         bravado.
+        <br />
+        <br />
+        1775-1787 American Revolution, petty as all get out (tea sales tax),
+        1814-1870 GDP/p imputed chores, still not productive enough to prove
+        technological advancement (0y/1x efficiency), for not GDP/hour because
+        that is expense/hour, but 1y/0x elasticity is GDP/p, and so efficiency
+        0y/1x for economic welfare on a rice-plane y, is GDP/hour-GDP/p
+        <br />
+        <br />
+        Go White, investment bank out of welfare and {">"}1/12 hospital fund
+        vertical “general revenue “
       </div>
     );
   }
