@@ -172,7 +172,8 @@ export default class App extends React.Component {
         <br />
         <br />
         Go White, investment bank out of welfare and {">"}1/12 hospital fund
-        vertical “general revenue “
+        vertical “general revenue “ They are going to press our commitments to
+        44 years payday current income impossibly down debt.
         <br />
         <br />
         Fix ‘excess’ deaths for population growth, specific age, meaningless
@@ -184,13 +185,11 @@ export default class App extends React.Component {
         <a href="https://gmunit.us">leases back the land to you</a>. Let them
         take our oil (for dollar royalty), don’t let them rent seek nor take the
         land. DOUCHE LADY
-        <br />
-        <br />
-        Warn tort jail no state vig! Known hazard open ingredient list no
-        prescription required for transaction-fee-based security depositary
-        receipt
-        <br />
-        <br />
+        <h4>
+          Warn tort jail no state vig! Known hazard open ingredient list no
+          prescription required for transaction-fee-based security depositary
+          receipt
+        </h4>
         Use industry-vertical-type as “collateral” for max-royalty future
         investments
         <br />
@@ -212,6 +211,13 @@ export default class App extends React.Component {
         <a href="https://carducci.us/primary">
           truncated production tax 2025 (nj)
         </a>
+        <br />
+        <br />I yield back until this gets unreasonable, preventing commerce, is
+        gmunit.us’ honor
+        <h1>
+          donee-beneficiary-surrendered-freedom bid by landlord and insurer but
+          outright loitering with lender of force-majeure intent conspiracy
+        </h1>
       </div>
     );
   }
