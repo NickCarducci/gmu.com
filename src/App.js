@@ -132,6 +132,9 @@ export default class App extends React.Component {
           General Maintenance Unit
         </a>
         .com for hypocrisy, as one to prosecute - .us as structural process
+        <h4>Ukraine is worth Dick Morris' blood</h4>
+        the republican party keeps people safe with per diem incarceration and
+        investment bank (unscience) funded welfare
         <br />
         <br />
         Artifact per capita is analysis not of single year significance but
@@ -183,6 +186,10 @@ export default class App extends React.Component {
         price.
         <br />
         Can’t say good sewage caused Alzheimer’s
+        <br />
+        <br />
+        This delinquent country is loitering on Savers’ donee beneficiary
+        surrendered freedom bid and outright
         <h1>conservative etymology, rent-seeker-Trumpo</h1>
         <h3>
           {/**vernon jones */}
