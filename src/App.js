@@ -319,7 +319,8 @@ export default class App extends React.Component {
           <br />
           <br />
           The limit does not exist diminishing returns. The significance has no
-          meaning! I'm talking about covid, the last false flag.
+          meaning! I'm talking about covid, the last false flag. The war has
+          been going on for 8 years but Putin sold tsy 2018 when I buy TVIX.
           <br />
           That is some awful chartwork my friend. Have you tried to draw a line
           for reversion to the mean - an Expectable one?
