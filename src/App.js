@@ -133,6 +133,23 @@ export default class App extends React.Component {
           General Maintenance Unit
         </a>
         .com for hypocrisy, as one to prosecute - .us as structural process
+        <br />
+        <br />
+        Artifact per capita is analysis not of single year significance but
+        sample of n{">"}100, and then cross reference
+        <br />
+        <br />
+        1% of people die normally humanharvest.info/polio 2.5m are actually
+        disabled, you’ll find the same presentation of pot smokers in accidents
+        as on the streets
+        <br />
+        <br />
+        If you are antivaxx don’t vote Republican, vote Saver, consumers can
+        stop all business. Art of fact
+        <br />
+        <br />
+        Excess deaths was zero 2010-20 because of a lull in birth rate growth,
+        the namesake of baby-boomers
         <h1>conservative etymology, rent-seeker-Trumpo</h1>
         <h3>
           {/**vernon jones */}
