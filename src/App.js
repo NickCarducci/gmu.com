@@ -132,6 +132,13 @@ export default class App extends React.Component {
           General Maintenance Unit
         </a>
         .com for hypocrisy, as one to prosecute - .us as structural process
+        <h1>
+          "
+          <a href="https://qr.ae/pGQfXS">
+            Bail needs to be appropriate for those people
+          </a>
+          .”
+        </h1>
         <h4>
           bottom line - Ukraine is worth Dick Morris' blood, which does not cost
           much
