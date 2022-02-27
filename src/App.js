@@ -132,6 +132,7 @@ export default class App extends React.Component {
         >
           General Maintenance Unit
         </a>
+        .com for hypocrisy, as one to prosecute - .us as structural process
         <h1>conservative etymology, rent-seeker-Trumpo</h1>
         <h3>
           {/**vernon jones */}
