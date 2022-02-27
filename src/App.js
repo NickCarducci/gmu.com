@@ -165,6 +165,24 @@ export default class App extends React.Component {
         Us bookies call that painting the tape. We need to stop competing with
         consumers, Surrendered-donee beneficiary-freedom bid what else, intent
         to help
+        <br />
+        <br />
+        Infinite producers is an assumption, but supply=labor-demand all else
+        dead weight box of 0y/1x efficiency does not
+        <br />
+        <br />
+        Most of GDP was garments 1930, plurally; levered food cash advance. your
+        debts are my money! 1/3 mortgage, tsy-bond, corporate monopsony,
+        government hypocrisy for 19% "disabled!" Is an intramuscular laceration
+        a scar? Art of fact!
+        <h4>
+          <a href="https://gmunit.us">Poverty = equality</a>
+        </h4>
+        Actually, poverty (pce/income average) coincides with equality of market
+        share by cash flow and last traded non-concurrentable good-will equity
+        price.
+        <br />
+        Can’t say good sewage caused Alzheimer’s
         <h1>conservative etymology, rent-seeker-Trumpo</h1>
         <h3>
           {/**vernon jones */}
