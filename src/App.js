@@ -1,5 +1,5 @@
 import React from "react";
-//import Cable from "./Dropwire";
+import Cable from "./Dropwire";
 //import TwitterTweetEmbed from "./TwitterTweetEmbed";
 import { UAParser } from "ua-parser-js";
 //import Gist from "react-gist";
@@ -80,7 +80,7 @@ export default class App extends React.Component {
     }
   };
   render() {
-    /*const handleScollImgError = (e) => {
+    const handleScollImgError = (e) => {
       if (e.message) {
         console.log(e.message);
         this.setState({ serviceCancelingImages: true });
@@ -94,7 +94,7 @@ export default class App extends React.Component {
       return arrayOfnumbers;
     };
     const space = " ";
-    const scrollPath = (scrollPath) =>
+    /*const scrollPath = (scrollPath) =>
       [this.state.hoverPath, this.state.scrollPath].includes(scrollPath)
         ? "2px solid"
         : "0px solid";
@@ -104,7 +104,6 @@ export default class App extends React.Component {
       this.setState({
         hoverPath: ev.target.href.split(`${window.location.origin}/`)[1]
       });*/
-    const space = " ";
     return (
       <div
         style={{
@@ -150,6 +149,10 @@ export default class App extends React.Component {
         <br />
         Excess deaths was zero 2010-20 because of a lull in birth rate growth,
         the namesake of baby-boomers
+        <br />
+        <br />
+        Tranquil and voluntary trade is all I got before I start making
+        hysterical unconscious decisions
         <h1>conservative etymology, rent-seeker-Trumpo</h1>
         <h3>
           {/**vernon jones */}
@@ -328,6 +331,23 @@ export default class App extends React.Component {
         <br />
         Transport and oil royalties.
         <br />
+        <a href="https://fred.stlouisfed.org/graph/?g=M24t">THEN</a>.
+        <Cable
+          style={{ width: "200px", height: "auto" }}
+          onError={handleScollImgError}
+          img={true}
+          src={
+            this.state.noyout
+              ? ""
+              : "https://www.dl.dropboxusercontent.com/s/z5mekltuqk3nbvh/Screen%20Shot%202022-02-27%20at%2011.34.17%20AM.png?dl=0"
+          }
+          float="right"
+          title="Headliners (GBNews) - Roblox sex parties"
+          scrolling={this.state.scrolling}
+          fwd={this["scrollImg" + scrollnum()]}
+          scrollTopAndHeight={this.props.scrollTop + window.innerHeight}
+          scrollTop={this.props.scrollTop}
+        />
         <div
           style={{ border: "1px solid", borderRadius: "10px", padding: "10px" }}
         >
