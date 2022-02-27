@@ -200,6 +200,13 @@ export default class App extends React.Component {
         <br />
         Vote Saver is you want 11/12 industry-variable jury to make permits for
         business and desist, minimal viable product duress
+        <br />
+        <br />
+        Capital loss deflation (cash/debt)*income every year back. DONT ALLOW
+        THE BIPATRIOTS TO CANCEL, universities win
+        <br />
+        <br />
+        Contractors are liable for surrendered-freedom undone due diligence
         <h1>conservative etymology, rent-seeker-Trumpo</h1>
         <h3>
           {/**vernon jones */}
