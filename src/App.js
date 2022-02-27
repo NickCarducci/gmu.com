@@ -132,7 +132,10 @@ export default class App extends React.Component {
           General Maintenance Unit
         </a>
         .com for hypocrisy, as one to prosecute - .us as structural process
-        <h4>Ukraine is worth Dick Morris' blood</h4>
+        <h4>
+          bottom line - Ukraine is worth Dick Morris' blood, which does not cost
+          much
+        </h4>
         the republican party keeps people safe with per diem incarceration and
         investment bank (unscience) funded welfare
         <br />
@@ -190,6 +193,13 @@ export default class App extends React.Component {
         <br />
         This delinquent country is loitering on Savers’ donee beneficiary
         surrendered freedom bid and outright
+        <br />
+        <br />
+        Vote Saver if you want whistleblowers on jury
+        <br />
+        <br />
+        Vote Saver is you want 11/12 industry-variable jury to make permits for
+        business and desist, minimal viable product duress
         <h1>conservative etymology, rent-seeker-Trumpo</h1>
         <h3>
           {/**vernon jones */}
