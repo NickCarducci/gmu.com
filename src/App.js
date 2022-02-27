@@ -304,6 +304,30 @@ export default class App extends React.Component {
           leasing land-deeds surrendered-freedom as third party donee
           beneficiary
         </h4>
+        We will bring Biden socialist spending spree to a screeching halt, we
+        will bring back $6t radical democrats’ ppp 50 average age small business
+        back for preventing commerce
+        <br />
+        Remember to add G-d to curse list
+        <br />2 week anon executions and trades for Public review
+        <br />
+        <span role="img" aria-label="unicorn free">
+          🦄🆓
+        </span>
+        science 1775-1787
+        <br />
+        Tranquil and voluntary trade is without duress nor unreasonable
+        unscrupulousness, contempt of court is fine, whistleblowers are required
+        for a Republic
+        <br />
+        Superfluous
+        <br />
+        Signature verification, illegal immigrants cannot be allowed to vote
+        like in New York City, you can just walk in
+        <br />
+        Voter I’d same say voting like we’ve always done, no mail in ballot
+        <br />
+        ID Day
       </div>
     );
   }
