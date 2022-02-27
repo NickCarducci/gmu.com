@@ -132,6 +132,11 @@ export default class App extends React.Component {
         >
           General Maintenance Unit
         </a>
+        <h3>
+          {/**vernon jones */}
+          "really fair trade with the tarrifs, 1y/0x," congradulations, you've
+          gentrified yourself.
+        </h3>
         Derivative something, like it is increasing endogeniositously, profits
         cash flow bookkeeping, not accounting (we amortize balance sheet to
         zero)
