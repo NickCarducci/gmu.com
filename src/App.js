@@ -296,6 +296,10 @@ export default class App extends React.Component {
         says consumer reports has precedence, amortize $1.8t/$4t/yrdebt spending
         is tax payer vacation
         <h2>Hypocrisy may be no crime, but it is a war-crime</h2>
+        voter Id, never defund the police, took 2.5yr litigation, 11 lawsuits,
+        we have it just about finished, they don't wanna close up the little
+        loops. We will delay immigration albeit our finance-induced
+        labor-shortage by laborless-demand
       </div>
     );
   }
