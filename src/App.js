@@ -153,6 +153,18 @@ export default class App extends React.Component {
         <br />
         Tranquil and voluntary trade is all I got before I start making
         hysterical unconscious decisions
+        <br />
+        <br />
+        Petroleum numbers includes natural gas. 18.9m barrels per day
+        consumption expenditure, 7.8m imports per day (2020)
+        <br />
+        <br />
+        Holy crap we import as much as we export
+        <br />
+        <br />
+        Us bookies call that painting the tape. We need to stop competing with
+        consumers, Surrendered-donee beneficiary-freedom bid what else, intent
+        to help
         <h1>conservative etymology, rent-seeker-Trumpo</h1>
         <h3>
           {/**vernon jones */}
