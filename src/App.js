@@ -394,6 +394,15 @@ export default class App extends React.Component {
         Transport and oil royalties.
         <br />
         <a href="https://fred.stlouisfed.org/graph/?g=M24t">THEN</a>.
+        <br />
+        <br />
+        Vote by cash balance, U.S. land fungible, not get rented back by lease
+        or investment bank funded welfare and free rider mutable infrastructure
+        monopsony making even free rider immutable sewage police lawsuits,
+        mutable, and 1y/0x elastic for no gain in economic welfare, efficiency,
+        GDP/hour-GDP/p
+        <br />
+        <br />
         <Cable
           style={{ width: "200px", height: "auto" }}
           onError={handleScollImgError}
