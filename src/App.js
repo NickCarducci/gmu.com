@@ -151,8 +151,11 @@ export default class App extends React.Component {
         <br />
         If you are antivaxx don’t vote Republican, vote Saver, consumers can
         stop all business. Art of fact
-        <br />
-        <br />
+        <h4>
+          Liability priced Assets:
+          <br />
+          when you have assets AND liabilities, you have everything
+        </h4>
         Excess deaths was zero 2010-20 because of a lull in birth rate growth,
         the namesake of baby-boomers
         <br />
@@ -207,6 +210,11 @@ export default class App extends React.Component {
         <br />
         <br />
         Contractors are liable for surrendered-freedom undone due diligence
+        <br />
+        <br />
+        We want a Great Depression; We do not know velocity/yr* of currency; The
+        right doesn't care about trust-breaking, 1y/0x elasticity and
+        laborless-demand; -GDP/p is tech advancement; GDP/hour is expense/hour
         <h1>conservative etymology, rent-seeker-Trumpo</h1>
         <h3>
           {/**vernon jones */}
