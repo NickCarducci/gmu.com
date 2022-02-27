@@ -165,7 +165,8 @@ export default class App extends React.Component {
         <br />
         <br />
         Petroleum numbers includes natural gas. 18.9m barrels per day
-        consumption expenditure, 7.8m imports per day (2020)
+        consumption expenditure, 7.8m imports per day (2020). We export and
+        import 8m/day (why) and consume 18m/day. Please stop
         <br />
         <br />
         Holy crap we import as much as we export
