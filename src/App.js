@@ -137,8 +137,12 @@ export default class App extends React.Component {
           <a href="https://qr.ae/pGQfXS">
             Bail needs to be appropriate for those people
           </a>
-          .”
+          .
         </h1>
+        <h2>
+          Waste of resources for the state of New York," is a gain to economists
+          on the right and top left.
+        </h2>
         <h4>
           bottom line - Ukraine is worth Dick Morris' blood, which does not cost
           much
