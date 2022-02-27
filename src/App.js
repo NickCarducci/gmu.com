@@ -353,6 +353,10 @@ export default class App extends React.Component {
         You can’t teach people to take bribes if you take bribes, unless you
         don’t want to end it and prosecute.
         <h4>preventing commerce</h4>
+        Surrendered-freedom to bid (insurer, landlords; false bid pool,
+        implausible use leases), outright (lenders; donee-beneficiary)
+        <br />
+        <br />
         We will bring{space}
         <a href="https://billbiden.org">Biden</a>
         {space}socialist spending spree to a screeching halt, we will bring back
