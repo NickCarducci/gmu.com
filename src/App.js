@@ -304,23 +304,60 @@ export default class App extends React.Component {
           leasing land-deeds surrendered-freedom as third party donee
           beneficiary
         </h4>
-        The limit does not exist diminishing returns. The significance has no
-        meaning! I'm talking about covid, the last false flag.
+        Maybe it is the leases, royalties to depositary for currency Savers in
+        oil delivered to precincts (or funds from wherever it is sold).
         <br />
-        That is some awful chartwork my friend. Have you tried to draw a line
-        for reversion to the mean - an Expectable one?
         <br />
+        Transport and oil royalties.
+        <br />
+        <div
+          style={{ border: "1px solid", borderRadius: "10px", padding: "10px" }}
+        >
+          I may be communist/socialist but not a statist. .02% of state funds
+          goes to citizens, if you deflate using the cash/debt ratio. Don’t
+          trust the statists, real conservatives.
+          <br />
+          <br />
+          The limit does not exist diminishing returns. The significance has no
+          meaning! I'm talking about covid, the last false flag.
+          <br />
+          That is some awful chartwork my friend. Have you tried to draw a line
+          for reversion to the mean - an Expectable one?
+          <br />
+          <br />
+          Small business trust-breaking government hypocrisy over labor, not
+          efficient. Just for the 19% disabled.
+          <br />
+          <br />
+          "How does supply exceed demand?"
+          <br />
+          Nick Carducci - policy-drafting software-developer & microeconomist
+          <br />
+          Supply and demand move up when more currency is introduced, and after
+          a lifetime (discounting the importance of inheritance), and to the
+          right when more people are introduced. This Supply and Demand plane,
+          numerically, is 0y/1x, (-GDP/p)/(GDP/hour), or GDP/hour-GDP/p, when
+          labor-demand=supply, or demand is exclusively labor.
+          <br />
+          <br />
+          How might supply exceed demand? Hard to imagine, since anytime labor
+          does not equal demand, you can draw a dead weight box, suffocating the
+          quality-skew/propensities of Marginal Utility Indifferences of both
+          the ask, for their inventory, and the bid, for their currency-fungible
+          alternatives.
+        </div>
         <br />
         “Energy rich oil per capita in the world, and it has never been
         exploited property.”
         <br />
         You can’t teach people to take bribes if you take bribes, unless you
         don’t want to end it and prosecute.
-        <br />
-        <br />
-        We will bring Biden socialist spending spree to a screeching halt, we
-        will bring back $6t radical democrats’ ppp 50 average age small business
-        back for preventing commerce
+        <h4>preventing commerce</h4>
+        We will bring{space}
+        <a href="https://billbiden.org">Biden</a>
+        {space}socialist spending spree to a screeching halt, we will bring back
+        $6t radical democrats’ ppp 50 average age small business back for
+        preventing commerce
         <br />
         Remember to add G-d to curse list
         <br />2 week anon executions and trades for Public review
