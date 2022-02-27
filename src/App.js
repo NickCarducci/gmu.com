@@ -325,9 +325,7 @@ export default class App extends React.Component {
         Signature verification, illegal immigrants cannot be allowed to vote
         like in New York City, you can just walk in
         <br />
-        Voter I’d same say voting like we’ve always done, no mail in ballot
-        <br />
-        ID Day
+        Voter ID same day voting like we’ve always done, no mail in ballot
       </div>
     );
   }
