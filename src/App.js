@@ -304,6 +304,20 @@ export default class App extends React.Component {
           leasing land-deeds surrendered-freedom as third party donee
           beneficiary
         </h4>
+        The limit does not exist diminishing returns. The significance has no
+        meaning! I'm talking about covid, the last false flag.
+        <br />
+        That is some awful chartwork my friend. Have you tried to draw a line
+        for reversion to the mean - an Expectable one?
+        <br />
+        <br />
+        “Energy rich oil per capita in the world, and it has never been
+        exploited property.”
+        <br />
+        You can’t teach people to take bribes if you take bribes, unless you
+        don’t want to end it and prosecute.
+        <br />
+        <br />
         We will bring Biden socialist spending spree to a screeching halt, we
         will bring back $6t radical democrats’ ppp 50 average age small business
         back for preventing commerce
