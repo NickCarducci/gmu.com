@@ -246,7 +246,7 @@ export default class App extends React.Component {
         Energy is important for national and economic security strong
         gubernatorial leadership to not have ideological agenda compromise in
         400/day Russian death to 4/day Ukrainian death (Claudia Tenney: "50k:14k
-        8 years")
+        8 years," Ukraine: "2k+, 2022, UN: '800k fled'")
         <br />
         <br />8 years no matter until NOW
         <br />
