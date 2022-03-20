@@ -11,7 +11,6 @@ export default class App extends React.Component {
     var parser = new UAParser();
     const name = parser.getBrowser().name;
     console.log(name);
-    document.cookie = "";
     this.state = {
       browser: name,
       scrollTop: 0,
@@ -424,7 +423,7 @@ export default class App extends React.Component {
           src={
             this.state.noyout
               ? ""
-              : "https://www.dl.dropboxusercontent.com/s/z5mekltuqk3nbvh/Screen%20Shot%202022-02-27%20at%2011.34.17%20AM.png?dl=0"
+              : "https://www.dropbox.com/s/z5mekltuqk3nbvh/Screen%20Shot%202022-02-27%20at%2011.34.17%20AM.png?raw=1"
           }
           float="right"
           title="Headliners (GBNews) - Roblox sex parties"
